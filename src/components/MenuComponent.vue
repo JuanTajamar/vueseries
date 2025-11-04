@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-sm">
     <div class="container-fluid">
       
-      <router-link class="navbar-brand" to="/">MiApp</router-link>
+      <router-link class="navbar-brand" to="/">SERIES HUB</router-link>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
